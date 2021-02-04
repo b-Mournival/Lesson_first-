@@ -1,0 +1,27 @@
+header {
+  background: url("../images/Nav_bg.png") no-repeat top center;
+  background-size: cover;
+  padding: 52px 30px 27px;
+}
+
+.navbar-nav {
+  font-family: 'Open Sans', sans-serif;
+}
+.navbar-nav {
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+.navbar-nav li a {
+  color: #ffffff!important;
+}
+
+header .navbar .navbar-brand {
+  max-width: 260px;
+  padding: 0;
+}
+
+li.nav-item {
+  margin-left: 60px;
+  margin-bottom: 10px;
+}
